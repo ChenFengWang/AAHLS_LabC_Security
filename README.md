@@ -9,3 +9,8 @@ export DEVICE=xilinx_u50_gen3x16_xdma_201920_3
 export TARGET=<sw_emu/hw_emu/hw>
 make run
 ```
+resource from
+Vitis Library 
+https://github.com/Xilinx/Vitis_Libraries
+Documentation
+https://xilinx.github.io/Vitis_Libraries/
